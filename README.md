@@ -1,5 +1,5 @@
 # my-website
-#nlude<stdio.h>
+# inlude<stdio.h>
 int main()
 {
   printf("hello world")
